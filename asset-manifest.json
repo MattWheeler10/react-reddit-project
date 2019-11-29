@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-reddit-project/static/css/main.67f3aad3.chunk.css",
+    "main.js": "/react-reddit-project/static/js/main.ffaf07be.chunk.js",
+    "main.js.map": "/react-reddit-project/static/js/main.ffaf07be.chunk.js.map",
+    "runtime-main.js": "/react-reddit-project/static/js/runtime-main.c0b5ca74.js",
+    "runtime-main.js.map": "/react-reddit-project/static/js/runtime-main.c0b5ca74.js.map",
+    "static/js/2.b2b44f9b.chunk.js": "/react-reddit-project/static/js/2.b2b44f9b.chunk.js",
+    "static/js/2.b2b44f9b.chunk.js.map": "/react-reddit-project/static/js/2.b2b44f9b.chunk.js.map",
+    "index.html": "/react-reddit-project/index.html",
+    "precache-manifest.8a02f17b8e6cb2fe2a9d4eae202beee0.js": "/react-reddit-project/precache-manifest.8a02f17b8e6cb2fe2a9d4eae202beee0.js",
+    "service-worker.js": "/react-reddit-project/service-worker.js",
+    "static/css/main.67f3aad3.chunk.css.map": "/react-reddit-project/static/css/main.67f3aad3.chunk.css.map",
+    "static/media/Screenshot.png": "/react-reddit-project/static/media/Screenshot.82b16a76.png",
+    "static/media/RightContent.css": "/react-reddit-project/static/media/Screenshot3.d2b20a2f.png",
+    "static/media/Screenshot4.png": "/react-reddit-project/static/media/Screenshot4.2517b39d.png",
+    "static/media/ah.gif": "/react-reddit-project/static/media/ah.853546ca.gif",
+    "static/media/boris.jpg": "/react-reddit-project/static/media/boris.49e7623e.jpg",
+    "static/media/cat.gif": "/react-reddit-project/static/media/cat.7ea6f40a.gif",
+    "static/media/comment.png": "/react-reddit-project/static/media/comment.916fdda4.png",
+    "static/media/ducks.jpg": "/react-reddit-project/static/media/ducks.89d4b902.jpg",
+    "static/media/earth.gif": "/react-reddit-project/static/media/earth.0941706a.gif",
+    "static/media/finger.gif": "/react-reddit-project/static/media/finger.dbae20aa.gif",
+    "static/media/image.png": "/react-reddit-project/static/media/image.2efe3cac.png",
+    "static/media/jesus.jpg": "/react-reddit-project/static/media/jesus.0382833f.jpg",
+    "static/media/landlord.jpg": "/react-reddit-project/static/media/landlord.64ac67fc.jpg",
+    "static/media/library.jpg": "/react-reddit-project/static/media/library.22d5d6bc.jpg",
+    "static/media/link.png": "/react-reddit-project/static/media/link.72f75144.png",
+    "static/media/news1.jpg": "/react-reddit-project/static/media/news1.8a83628b.jpg",
+    "static/media/news2.jpg": "/react-reddit-project/static/media/news2.7759e30e.jpg",
+    "static/media/news3.jpg": "/react-reddit-project/static/media/news3.99574e7b.jpg",
+    "static/media/news4.jpg": "/react-reddit-project/static/media/news4.98be27ea.jpg",
+    "static/media/save.png": "/react-reddit-project/static/media/save.f8d74537.png",
+    "static/media/share.png": "/react-reddit-project/static/media/share.080bee95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0b5ca74.js",
+    "static/js/2.b2b44f9b.chunk.js",
+    "static/css/main.67f3aad3.chunk.css",
+    "static/js/main.ffaf07be.chunk.js"
+  ]
+}
